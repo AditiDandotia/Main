@@ -1,2 +1,2 @@
 # Main
-This contains my portfolio
+This project contains my portfolio web page.
